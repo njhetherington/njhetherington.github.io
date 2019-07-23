@@ -4,7 +4,7 @@ This is my personal webpage. Clearly it's a work in progress :)
 [Email](mailto:nicholas.j.hetherington@gmail.com)
 
 ## Links
-* [Current Resume](Nick_Hetherington_Resume_June2019.pdf)
+* [Current Resume](Nick_Hetherington_Resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/nickhetherington/)
 * [Research Group](http://caris.mech.ubc.ca)
 
