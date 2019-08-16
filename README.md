@@ -15,5 +15,5 @@ Presented a [poster](Towards_Social-Acceptability_of_Mobile_Robots_through_Visua
 Abstract [here](Towards_Social-Acceptability_of_Mobile_Robots_through_Visual_Communication_Cues-Hetherington-HMS_ICRA_2019-Extended_Abstract.pdf).
 
 *Conference Publication:* **Pedestrian Following for Autonomous Navigation with Mobile Sidewalk Robot**<br>
-Presented a [paper](Group_Surfing:_A_Pedestrian-Based_Approach_to_Sidewalk_Navigation-Paper.pdf) and [poster](Group_Surfing:_A_Pedestrian-Based_Approach_to_Sidewalk_Navigation-Poster.pdf) at [ICRA 2019](https://www.icra2019.org/).<br>
+Presented a [paper](https://ieeexplore.ieee.org/document/8793608) and [poster](Group_Surfing:_A_Pedestrian-Based_Approach_to_Sidewalk_Navigation-Poster.pdf) at [ICRA 2019](https://www.icra2019.org/).<br>
 [Video demonstration](https://www.youtube.com/watch?v=fP33UHO_978&feature=youtu.be)
