@@ -1,6 +1,3 @@
-# Nick Hetherington
-This is my personal webpage. Clearly it's a work in progress :)
-
 [Email](mailto:nicholas.j.hetherington@gmail.com)
 
 ## Links
