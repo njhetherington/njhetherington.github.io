@@ -6,4 +6,3 @@
 
 ## Documents
 * [Resume](Resume_NickHetherington.pdf)
-* [Academic CV](CV_NickHetherington.pdf)
