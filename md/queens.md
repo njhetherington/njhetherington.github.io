@@ -30,13 +30,13 @@ I was part of the Queen's Most Autonomous Sailboat Team (QMAST) for three years:
 <img src="../img/qmast/boat_trailer.JPG" alt="drawing" width="600"/><br>
 *The mechanical team built a 2-metre long fixed keel, single sail boat.*<br>
 <br>
-<img src="../img/qmast/system.JPG" alt="drawing" width="600"/><br>
+<img src="../img/qmast/system.jpg" alt="drawing" width="600"/><br>
 *I designed and built the embedded electrical systems, including power, computing, and motor control systems.*<br>
 <br>
-<img src="../img/qmast/power_module.JPG" alt="drawing" width="600"/><br>
+<img src="../img/qmast/power_module.jpg" alt="drawing" width="600"/><br>
 *The battery management, power distribution, and motor control module.*<br>
 <br>
-<img src="../img/qmast/compute_module.JPG" alt="drawing" width="600"/><br>
+<img src="../img/qmast/compute_module.jpg" alt="drawing" width="600"/><br>
 *The computing module.*<br>
 <br>
 <img src="../img/qmast/pcb.JPG" alt="drawing" width="600"/><br>
