@@ -1,6 +1,6 @@
 **Navigation**
-* [Homepage](/README.md)
-* [Portfolio](/md/portfolio.md)
+* [Homepage](../README.md)
+* [Portfolio](../md/portfolio.md)
 
 # Undergraduate Projects
 
@@ -44,5 +44,5 @@ I was part of the Queen's Most Autonomous Sailboat Team (QMAST) for three years:
 <br>
 
 **Navigation**
-* [Homepage](/README.md)
-* [Portfolio](/md/portfolio.md)
+* [Homepage](../README.md)
+* [Portfolio](../md/portfolio.md)
