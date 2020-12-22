@@ -1,6 +1,6 @@
 **Navigation**
-* [Homepage](/README.md)
-* [Portfolio](/md/portfolio.md)
+* [Homepage](../README.md)
+* [Portfolio](../md/portfolio.md)
 
 # Mobile Robotics Research
 I completed my Master of Applied Science (MASc) degree in the [Collaborative Autonomous Robotics and Intelligent Systems Laboratory](http://caris.mech.ubc.ca/) at [The University of British Columbia](https://www.ubc.ca/) in 2020.
@@ -76,5 +76,5 @@ During my Master's I closely supervised a 4th year Mechatronics student, Ryan Le
 <!--Leader-Follower Robots -->
 
 **Navigation**
-* [Homepage](/README.md)
-* [Portfolio](/md/portfolio.md)
+* [Homepage](../README.md)
+* [Portfolio](../md/portfolio.md)
