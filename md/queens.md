@@ -15,7 +15,7 @@ We designed a pose control system using a PI controller:<br>
 <img src="../img/elec490/control_system.jpg" alt="drawing" width="600"/> <br>
 <br>
 We implemented the control system using ROS and Python:<br>
-<img src="../img/elec490/ros_nodes.JPG" alt="drawing" width="600"/> <br>
+<img src="../img/elec490/ros_nodes.jpg" alt="drawing" width="600"/> <br>
 <img src="../img/elec490/ros_nodes_2.JPG" alt="drawing" width="600"/> <br>
 <br>
 * [Video Demonstration](https://youtu.be/U2KSUFkIpCI)
