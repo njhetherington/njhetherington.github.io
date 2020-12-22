@@ -33,8 +33,8 @@ I created a simulation environment for development and evaluation of the Group S
 <br>
 
 **Media:**
-* [Y. Du, **N.J.Hetherington**, et al., "Group Surfing: A Pedestrian-Based Approach to Sidewalk Robot Navigation," 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 6518-6524, doi: 10.1109/ICRA.2019.8793608](/pdf/group_surfing/icra19_paper.pdf)
-* [Conference Poster](/pdf/group_surfing/icra19_poster.pdf)
+* [Y. Du, **N.J.Hetherington**, et al., "Group Surfing: A Pedestrian-Based Approach to Sidewalk Robot Navigation," 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 6518-6524, doi: 10.1109/ICRA.2019.8793608](https://github.com/njhetherington/njhetherington.github.io/blob/master/pdf/group_surfing/irca19_paper.pdf)
+* [Conference Poster](https://github.com/njhetherington/njhetherington.github.io/blob/master/pdf/group_surfing/irca19_paper.pdf)
 * [Video Demonstration 1](https://youtu.be/fy7fKOADg_A)
 * [Video Demonstration 2](https://youtu.be/PHhtYIkdxiw)
 
