@@ -1,6 +1,6 @@
 # Portfolio
 
 **Navigation**
-* [Graduate Robotics Research(ubc.md)
+* [Graduate Robotics Research](ubc.md)
 * [Undergraduate Robotics Projects](queens.md)
 * [Homepage](../README.md)
