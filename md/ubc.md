@@ -66,7 +66,7 @@ The [3Spheres Robotics Project by JDQ Systems Inc.](https://3srp.com/about-the-r
 ## Mobile Robot Yielding Cues
 During my Master's I closely supervised a 4th year Mechatronics student, Ryan Lee, while he was working on this project. We co-designed robot-to-human communication cues for a robot to use when yiedling to a pedestrian at a doorway. Ryan implemented the cues on the robot (ROS/C++) with my help. We conducted a user study to evaluate and compare the cues. <br>
 
-<img src="../img/yielding_cues.jpg" alt="drawing" width="600"/><br>
+<img src="../img/yielding_cues.JPG" alt="drawing" width="600"/><br>
 *Images of the five robot-to-human yielding cues.*<br>
 
 **Media:**
