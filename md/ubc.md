@@ -9,8 +9,6 @@ My thesis was: ["Design and Evaluation of Nonverbal Motion Cues for Human-Robot 
 
 Below are the main projects to which I contributed during my degree. In each project I used the [Robot Operating System (ROS 1)](https://www.ros.org/) distributed middleware and programmed in either Python 2.7 or C++ 11.
 
-TODO TOC?
-
 ## Robotic Motion Legibility Cues
 <img src="../img/commbot.png" alt="drawing" width="600"/> <br>
 My [thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0394282) research was on robot-to-human "motion legibility cues". I designed these cues for a mobile robot to communicate its intentions and forthcoming motion to pedestrians.<br>
@@ -44,7 +42,7 @@ I created a simulation environment for development and evaluation of the Group S
 * Co-developed the Group Surfing algorithm for mobile robot navigation amongst pedestrians.
 * Adapted a pre-trained artificial neural network for multi-agent collision avoidance in a sidewalk environment (ROS/Python).
 * Integrated the collision avoidance system into the ROS Navigation Stack (ROS/Python).
-* Created simulation environments for system development and testing by integrating [PedSim](http://pedsim.silmaril.org/) with [Gazebo](http://gazebosim.org/) (ROS/C++).
+* Created simulation environments for system development and testing by integrating a crowd simulator ([PedSim](http://pedsim.silmaril.org/)) with a physical simulator ([Gazebo](http://gazebosim.org/)) (ROS/C++).
 * Co-designed tests and performed statistical analysis to compare our method to others (R).
 * Co-authored two papers and two posters.
 

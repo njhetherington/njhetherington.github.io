@@ -5,7 +5,7 @@
 # Undergraduate Projects
 
 ## UAV Indoor Guidance System
-*4th Year Undergraduate Capstone Project*
+*4th Year Undergraduate Capstone Project*<br>
 I co-designed and implemented a control system for a quadrotor UAV to follow walls and traverse corners.<br>
 <br>
 We augmented an off-the-shelf drone with SONAR sensors and an Arduino microcontroller:<br>
@@ -14,7 +14,7 @@ We augmented an off-the-shelf drone with SONAR sensors and an Arduino microcontr
 We designed a pose control system using a PI controller:<br>
 <img src="../img/elec490/control_system.jpg" alt="drawing" width="600"/> <br>
 <br>
-We implemented the control system using ROS / Python:<br>
+We implemented the control system using ROS and Python:<br>
 <img src="../img/elec490/ros_nodes.JPG" alt="drawing" width="600"/> <br>
 <img src="../img/elec490/ros_nodes_2.JPG" alt="drawing" width="600"/> <br>
 <br>
@@ -24,7 +24,7 @@ We implemented the control system using ROS / Python:<br>
 ## Electrical Design Lead and Project Manager - Queen's Mostly Autonomous Sailboat Team
 I was part of the Queen's Most Autonomous Sailboat Team (QMAST) for three years:
 * In the summer of 2014 I did a co-op term as the Electrical Design Lead.
-* In my third year I was the Electrical Team co-manager as a volunteer extra-curricular.
+* In my third year (2014/2015) I was the Electrical Team co-manager as a volunteer extra-curricular.
 * We placed 2nd at the 2015 International Robotic Sailing Regatta (St. John's NL).
 <br>
 <img src="../img/qmast/boat_trailer.JPG" alt="drawing" width="600"/><br>
