@@ -70,7 +70,7 @@ During my Master's I closely supervised a 4th year Mechatronics student, Ryan Le
 *Images of the five robot-to-human yielding cues.*<br>
 
 **Media:**
-* [Videos used in online user study.](https://youtu.be/iE9S8QceWdY)
+* [Videos used in online user study.](https://youtu.be/kzL2SbVLQzI)
 * Paper under peer-review for publication.
 
 <!--Leader-Follower Robots -->
